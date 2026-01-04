@@ -1,6 +1,14 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://d.kstore.dev/download/12792/ln.txt
+http://43.251.226.89:8080/live.txt
+https://live.catvod.com/tv.m3u
+http://iptv.cqshushu.com/jiekou.php?jk=txt&token=263b9cc89eb51ce670b1043b52f2b2d3
+http://rihou.cc:555/gggg.nzk
+https://d.kstore.dev/download/12792/d.txt
+https://iptv.catvod.com/tv.m3u
+https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 
 
 
