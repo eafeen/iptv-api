@@ -2,6 +2,99 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+
+
+
+睛彩竞技,http://rihou.cc:555/tv/[mg]睛彩竞技
+睛彩竞技,http://rihou.cc:555/tv/[mg]睛彩竞技|
+睛彩篮球,http://rihou.cc:555/tv/[mg]睛彩篮球
+睛彩篮球,http://rihou.cc:555/tv/[mg]睛彩篮球|
+睛彩青少,http://rihou.cc:555/tv/[mg]睛彩青少
+睛彩青少,http://rihou.cc:555/tv/[mg]睛彩青少|
+睛彩广场舞,http://rihou.cc:555/tv/[mg]睛彩广场
+睛彩广场舞,http://rihou.cc:555/tv/[mg]睛彩广场|
+军事国防央七,http://rihou.cc:555/tv/[mg]国防央七
+军事国防央七,http://rihou.cc:555/tv/[mg]国防央七|
+睛彩竞技,http://yp.qqqtv.top/bc/bc.php?id=%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80-%E5%86%B0%E8%8C%B6%E4%B8%93%E7%94%A8&auth=66615415
+睛彩篮球,http://yp.qqqtv.top/bc/bc.php?id=%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83-%E5%86%B0%E8%8C%B6%E4%B8%93%E7%94%A8&auth=66615415
+睛彩青少,http://yp.qqqtv.top/bc/bc.php?id=%E7%9D%9B%E5%BD%A9%E9%9D%92%E5%B0%91-%E5%86%B0%E8%8C%B6%E4%B8%93%E7%94%A8&auth=66615415
+睛彩广场舞,http://yp.qqqtv.top/bc/bc.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E-%E5%86%B0%E8%8C%B6%E4%B8%93%E7%94%A8&auth=66615415
+
+
+辽宁都市,http://api.kkhk.itv888.vip:8080/streams/bbwzex2903f/index.m3u8
+辽宁影视,http://api.kkhk.itv888.vip:8080/streams/3fvxgczq21/index.m3u8
+辽宁体育休闲,http://api.kkhk.itv888.vip:8080/streams/5dffq30kvi/index.m3u8
+辽宁生活,http://api.kkhk.itv888.vip:8080/streams/91qfmt3x9h/index.m3u8
+辽宁北方,http://api.kkhk.itv888.vip:8080/streams/o5fw1q81ye/index.m3u8
+辽宁移动电视,http://api.kkhk.itv888.vip:8080/streams/lqc8uv7w4e/index.m3u8
+大连新闻综合,http://api.kkhk.itv888.vip:8080/streams/ak8eoyyti2k/index.m3u8
+古装妖魔,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
+家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
+泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
+搞笑剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
+大家剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
+爱情生活,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+
+华数轮播01,http://183.237.95.108:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+华数轮播02,http://183.237.95.108:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+华数轮播03,http://183.237.95.108:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+华数轮播04,http://183.237.95.108:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+华数轮播05,http://183.237.95.108:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0
+华数轮播06,http://183.237.95.108:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=0&authid=0
+华数轮播07,http://183.237.95.108:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=0&authid=0
+华数轮播08,http://183.237.95.108:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=0&authid=0
+华数轮播09,http://183.237.95.108:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0
+华数轮播10,http://183.237.95.108:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0
+华数轮播11,http://183.237.95.108:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
+
+
+
+吉林都市,http://119.50.4.230:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林影视,http://119.50.4.230:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林生活,http://119.50.4.230:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+长影频道,http://119.50.4.230:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+
+吉林乡村,http://58.245.255.38:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://58.245.255.38:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林影视,http://58.245.255.38:9999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林教育,http://58.245.255.38:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林生活,http://58.245.255.38:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林综艺,http://58.245.255.38:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林都市,http://58.245.255.38:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://113.9.193.50:9003/hls/2022/index.m3u8
+黑龙江都市,http://113.9.193.50:9003/hls/2023/index.m3u8
+黑龙江农业科教,http://113.9.193.50:9003/hls/2024/index.m3u8
+黑龙江新闻法制,http://113.9.193.50:9003/hls/2025/index.m3u8
+黑龙江少儿,http://113.9.193.50:9003/hls/2026/index.m3u8
+黑龙江文体,http://113.9.193.50:9003/hls/2027/index.m3u8
+黑龙江影视,http://113.9.193.50:9003/hls/2028/index.m3u8
+哈尔滨影视,http://113.9.193.50:9003/hls/2029/index.m3u8
+哈尔滨生活,http://113.9.193.50:9003/hls/2030/index.m3u8
+哈尔滨新闻综合,http://113.9.193.50:9003/hls/2031/index.m3u8
+
+哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
+哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8
+哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
+浙江卫视4K,http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&auth=666858
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
+浙江卫视4K,http://m.061899.xyz/mg/zjws
+浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+南国都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
+CCTV-4K,http://yp.qqqtv.top/1/api.php?id=CCTV-4K%E8%B6%85%E9%AB%98%E6%B8%85&auth=666858
+CCTV-8K,http://yp.qqqtv.top/1/api.php?id=CCTV-8K%E8%B6%85%E9%AB%98%E6%B8%85&auth=666858
+
 中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://nmk.ioapk.com:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
@@ -814,6 +907,79 @@ C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 华文四套,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 华文五套,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+电影 英叔,https://live.iill.top/huya/11342421
+电影 英叔1,http://43.138.196.212/斗douyu鱼.php?id=7356023
+电影 星爷,https://live.iill.top/huya/11342412
+电影 星爷粤语,https://live.iill.top/huya/11336587
+电影 发哥,https://live.iill.top/huya/11342387
+电影 五福星,https://live.iill.top/huya/11282233
+电影 周星星,https://live.iill.top/huya/11336587
+电影 李连杰,https://live.iill.top/huya/11342390
+电影 洪金宝,https://live.iill.top/huya/11279251
+电影 梁家辉,https://live.iill.top/huya/11342429
+电影 许冠英,https://live.iill.top/huya/11601972
+电影 刘德华,https://live.iill.top/huya/11342424
+电影 斯坦森,https://live.iill.top/huya/21059588
+电影 成龙,https://live.iill.top/huya/11342386
+电影 王晶,https://live.iill.top/huya/11602058
+电影 黄渤,https://live.iill.top/huya/11352876
+电影 强森,https://live.iill.top/huya/21059581
+电影 漫威,https://live.iill.top/huya/11602034
+电影_宇宙,https://live.iill.top/huya/11342428
+电影 怪兽,https://live.iill.top/huya/21059577
+电影 武侠,https://live.iill.top/huya/11342427
+电影 警匪,https://live.iill.top/huya/11352886
+电影 罪犯,https://live.iill.top/huya/11352962
+电影 枪战,https://live.iill.top/huya/21059579
+电影 海盗,https://live.iill.top/huya/21059595
+电影 赛车,https://live.iill.top/huya/11279247
+电影 推荐,https://live.iill.top/huya/11602041
+电影 救援,https://live.iill.top/huya/21059594
+电影 热血,https://live.iill.top/huya/11352934
+电影 盗墓,https://live.iill.top/huya/21059552
+电影 贺岁,https://live.iill.top/huya/11601971
+电影 玄幻,https://live.iill.top/huya/11342414
+电影 谍战,https://live.iill.top/huya/21059585
+电影 战争,https://live.iill.top/huya/21059592
+电影 喜剧,https://live.iill.top/huya/11352877
+电影 港片,https://live.iill.top/huya/11602043
+电影 国产,https://live.iill.top/huya/11352973
+电影 小鬼头,https://live.iill.top/huya/11352963
+电影 八点档,https://live.iill.top/huya/880261
+电影 蜘蛛侠,https://live.iill.top/huya/21059599
+电影 贺岁片,https://live.iill.top/huya/11601986
+电影 功夫片,https://live.iill.top/huya/11352941
+电影_黑帮片,https://live.iill.top/huya/11336719
+电影 丧尸片,https://live.iill.top/huya/21059578
+电影 灾难片,https://live.iill.top/huya/11602075
+电影 谍战片,https://live.iill.top/huya/21059587
+电影 战争片,https://live.iill.top/huya/21059574
+电影 犯罪片,https://live.iill.top/huya/11352974
+电影 古装片,https://live.iill.top/huya/11336590
+电影 高分动作,https://live.iill.top/huya/11352884
+电影 动作电影,https://live.iill.top/huya/11602077
+电影 搞笑喜剧,https://live.iill.top/huya/11342423
+电影 喜剧专场,https://live.iill.top/huya/11602044
+电影欢笑影院,https://live.iill.top/huya/11352894
+电影 不挤影院,https://live.iill.top/huya/11352897
+电影 国产悬疑,https://live.iill.top/huya/11342395
+电影 快意江湖,https://live.iill.top/huya/11342435
+电影 黑帮斗争,https://live.iill.top/huya/11342419
+电影_古墓系列,https://live.iill.top/huya/11352913
+电影 嫣然影厅,https://live.iill.top/huya/11601977
+电影 女神系列,https://live.iill.top/huya/11336571
+电影_经典女神,https://live.iill.top/huya/11352909
+电影 许氏三杰,https://live.iill.top/huya/11602033
+电影 经典港片,https://live.iill.top/huya/11352965
+电影 镖行天下,https://live.iill.top/huya/11352969
+电影 高能反转,https://live.iill.top/huya/11352887
+电影 喜乐影院,https://live.iill.top/huya/21059580
+电影 蘑菇影厅,https://live.iill.top/huya/11601981
+电影 搞笑恐怖,https://live.iill.top/huya/11601960
+电影 死神来了,https://live.iill.top/huya/11352903
+电影 变形金刚,https://live.iill.top/huya/21059596
+电影 怪兽系列,https://live.iill.top/huya/21059554
+
 华文八套,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 
 
