@@ -2,6 +2,56 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+吉林乡村,http://58.245.255.38:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://58.245.255.38:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林影视,http://58.245.255.38:9999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林教育,http://58.245.255.38:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林生活,http://58.245.255.38:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林综艺,http://58.245.255.38:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林都市,http://58.245.255.38:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+
+黑龙江卫视,http://113.9.193.50:9003/hls/2022/index.m3u8
+黑龙江都市,http://113.9.193.50:9003/hls/2023/index.m3u8
+黑龙江农业科教,http://113.9.193.50:9003/hls/2024/index.m3u8
+黑龙江新闻法制,http://113.9.193.50:9003/hls/2025/index.m3u8
+黑龙江少儿,http://113.9.193.50:9003/hls/2026/index.m3u8
+黑龙江文体,http://113.9.193.50:9003/hls/2027/index.m3u8
+黑龙江影视,http://113.9.193.50:9003/hls/2028/index.m3u8
+哈尔滨影视,http://113.9.193.50:9003/hls/2029/index.m3u8
+哈尔滨生活,http://113.9.193.50:9003/hls/2030/index.m3u8
+哈尔滨新闻综合,http://113.9.193.50:9003/hls/2031/index.m3u8
+黑龙江都市,http://shuangyashan.coccc.online:65000/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江公共,http://shuangyashan.coccc.online:65000/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江文体,http://shuangyashan.coccc.online:65000/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江新闻法治,http://shuangyashan.coccc.online:65000/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江影视,http://shuangyashan.coccc.online:65000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://112.99.195.122:65000/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江影视,http://112.99.195.122:65000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江文体,http://112.99.195.122:65000/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江都市,http://112.99.195.122:65000/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江新闻法治,http://112.99.195.122:65000/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江公共,http://112.99.195.122:65000/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江少儿,http://112.99.195.122:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+
+辽宁都市,http://39.152.103.17:8089/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1
+辽宁影视剧,http://39.152.103.17:8089/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1
+辽宁体育休闲,http://39.152.103.17:8089/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
+辽宁生活,http://39.152.103.17:8089/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&down=1
+辽宁教育青少,http://39.152.103.17:8089/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&down=1
+辽宁北方,http://39.152.103.17:8089/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1
+辽宁公共,http://39.152.103.17:8089/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&down=1
+辽宁经济,http://39.152.103.17:8089/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
+辽宁移动电视,http://39.152.103.17:8089/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
+
+第一剧场,http://124.152.56.11:53290/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+风云音乐,http://124.152.56.11:53290/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+风云足球,http://124.152.56.11:53290/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://124.152.56.11:53290/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+怀旧剧场,http://124.152.56.11:53290/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://124.152.56.11:53290/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 CCTV-1,http://t.061899.xyz/tl/tl.php?id=cctv1
 CCTV-2,http://t.061899.xyz/tl/tl.php?id=cctv2
