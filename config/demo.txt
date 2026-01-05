@@ -26,6 +26,11 @@
 抚顺综合,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.253:1234
 抚顺教育,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.254:1234
 都市,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.183:1234
+大连新闻综合,http://api.kkhk.itv888.vip:8080/streams/ak8eoyyti2k/index.m3u8
+大连生活,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E8%BF%9E%E7%94%9F%E6%B4%BB&auth=666858
+大连文体,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E8%BF%9E%E6%96%87%E4%BD%93&auth=666858
+金普新闻综合,http://yp.qqqtv.top/1/api.php?id=%E9%87%91%E6%99%AE%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+金普生活服务,http://yp.qqqtv.top/1/api.php?id=%E9%87%91%E6%99%AE%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1&auth=666858
 辽宁经济高清,http://lihetl.com:9527/rtp/232.0.0.155:9320           
 辽宁公共高清,http://lihetl.com:9527/rtp/232.0.0.156:9322               
 辽宁丹东新闻,http://lihetl.com:95277/rtp/232.0.0.251:9162$辽宁uip1
