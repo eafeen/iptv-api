@@ -4,7 +4,14 @@
 # Support setting whitelist: add $! after the interface
 
 
-
+茶频道,https://api.ggiptv.com/v/hunantv.php?id=578
+辽宁都市,http://api.kkhk.itv888.vip:8080/streams/bbwzex2903f/index.m3u8
+辽宁影视,http://api.kkhk.itv888.vip:8080/streams/3fvxgczq21/index.m3u8
+辽宁体育休闲,http://api.kkhk.itv888.vip:8080/streams/5dffq30kvi/index.m3u8
+辽宁生活,http://api.kkhk.itv888.vip:8080/streams/91qfmt3x9h/index.m3u8
+辽宁北方,http://api.kkhk.itv888.vip:8080/streams/o5fw1q81ye/index.m3u8
+辽宁移动电视,http://api.kkhk.itv888.vip:8080/streams/lqc8uv7w4e/index.m3u8
+大连新闻综合,http://api.kkhk.itv888.vip:8080/streams/ak8eoyyti2k/index.m3u8
 
 吉林乡村,http://58.245.255.38:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://58.245.255.38:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -14,15 +21,8 @@
 吉林综艺,http://58.245.255.38:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林都市,http://58.245.255.38:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 
-黑龙江卫视,http://113.9.193.50:9003/hls/2022/index.m3u8
-黑龙江都市,http://113.9.193.50:9003/hls/2023/index.m3u8
-黑龙江农业科教,http://113.9.193.50:9003/hls/2024/index.m3u8
-黑龙江新闻法制,http://113.9.193.50:9003/hls/2025/index.m3u8
-黑龙江少儿,http://113.9.193.50:9003/hls/2026/index.m3u8
-黑龙江文体,http://113.9.193.50:9003/hls/2027/index.m3u8
-黑龙江影视,http://113.9.193.50:9003/hls/2028/index.m3u8
-哈尔滨影视,http://113.9.193.50:9003/hls/2029/index.m3u8
-哈尔滨生活,http://113.9.193.50:9003/hls/2030/index.m3u8
+
+
 哈尔滨新闻综合,http://113.9.193.50:9003/hls/2031/index.m3u8
 黑龙江都市,http://shuangyashan.coccc.online:65000/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江公共,http://shuangyashan.coccc.online:65000/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
