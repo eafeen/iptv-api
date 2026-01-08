@@ -688,25 +688,17 @@ CHC家庭影院,http://115.52.127.45:880/CH046.m3u8
 音乐小石榴,https://live.metshop.top/huya/17091681
 秋月剪水,https://live.ottiptv.cc/douyu/9588891
 秋月剪水,https://www.goodiptv.club/douyu/9588891
-秋月剪水,http://huanqiuzhibo.cn/manifest/douyu.php?id=9588891
-秋月剪水,http://zzy789.xyz/douyu1.php?id=9588891
-秋月剪水,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=sV0RsY&tk=EuWQIWwVA7n1
+
 喵喵音乐台,https://live.ottiptv.cc/douyu/9568091
 喵喵音乐台,https://www.goodiptv.club/douyu/9568091
-喵喵音乐台,http://huanqiuzhibo.cn/manifest/douyu.php?id=9568091
-喵喵音乐台,http://zzy789.xyz/douyu1.php?id=9568091
+
 阿7点歌台,https://live.ottiptv.cc/douyu/3186217
 阿7点歌台,https://www.goodiptv.club/douyu/3186217
-阿7点歌台,http://huanqiuzhibo.cn/manifest/douyu.php?id=3186217
-阿7点歌台,http://zzy789.xyz/douyu1.php?id=3186217
+
 音悦喵点歌台,https://live.ottiptv.cc/douyu/3870925
 音悦喵点歌台,https://www.goodiptv.club/douyu/3870925
-音悦喵点歌台,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
-音悦喵点歌台,http://zzy789.xyz/douyu1.php?id=3870925
-音悦喵点歌台,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=gwOxIl&tk=EuWQIWwVA7n1
-点歌台,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=y28sUy&tk=EuWQIWwVA7n1
-阿7点歌台,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=nOcwuC&tk=EuWQIWwVA7n1
-点歌果冻,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=NN6buw&tk=EuWQIWwVA7n1
+
+
 
 
 CCTV-1,http://go.bkpcp.top/mg/cctv1
