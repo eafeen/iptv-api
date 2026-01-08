@@ -21,7 +21,24 @@
 吉林综艺,http://58.245.255.38:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林都市,http://58.245.255.38:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
+黑龙江都市,http://112.103.141.199:8083/hls/20/index.m3u8
+黑龙江少儿,http://112.103.141.199:8083/hls/21/index.m3u8
+黑龙江新闻法制,http://112.103.141.199:8083/hls/22/index.m3u8
+黑龙江文体,http://112.103.141.199:8083/hls/23/index.m3u8
+黑龙江农业科教,http://112.103.141.199:8083/hls/24/index.m3u8
+黑龙江影视,http://112.103.141.199:8083/hls/25/index.m3u8
+黑龙江都市,,http://112.103.141.97:8083/hls/20/index.m3u8
+黑龙江少儿,http://112.103.141.97:8083/hls/21/index.m3u8
+黑龙江新闻法制,http://112.103.141.97:8083/hls/22/index.m3u8
+黑龙江文体,http://112.103.141.97:8083/hls/23/index.m3u8
+黑龙江农业科教,http://112.103.141.97:8083/hls/24/index.m3u8
+黑龙江影视,http://112.103.141.97:8083/hls/25/index.m3u8
+黑龙江都市,,http://122.159.225.231:8083/hls/20/index.m3u8
+黑龙江少儿,http://122.159.225.231:8083/hls/21/index.m3u8
+黑龙江新闻法制,http://122.159.225.231:8083/hls/22/index.m3u8
+黑龙江文体,http://122.159.225.231:8083/hls/23/index.m3u8
+黑龙江农业科教,http://122.159.225.231:8083/hls/24/index.m3u8
+黑龙江影视,http://122.159.225.231:8083/hls/25/index.m3u8
 
 哈尔滨新闻综合,http://113.9.193.50:9003/hls/2031/index.m3u8
 黑龙江都市,http://shuangyashan.coccc.online:65000/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
