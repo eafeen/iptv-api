@@ -55,6 +55,10 @@
 中视购物,http://yp.qqqtv.top/1/api.php?id=CCTV-%E4%B8%AD%E8%A7%86%E8%B4%AD%E7%89%A9&auth=666858
 戏曲,http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%88%8F%E6%9B%B2&auth=666858
 娱乐,http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A8%B1%E4%B9%90&auth=666858
+大连生活,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E8%BF%9E%E7%94%9F%E6%B4%BB&auth=666858
+大连文体,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E8%BF%9E%E6%96%87%E4%BD%93&auth=666858
+金普新闻综合,http://yp.qqqtv.top/1/api.php?id=%E9%87%91%E6%99%AE%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+金普生活服务,http://yp.qqqtv.top/1/api.php?id=%E9%87%91%E6%99%AE%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1&auth=666858
 
 卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -152,24 +156,7 @@ CHC家庭影院,http://sh.lnott.top:880/dx93.m3u8$1080p
 
 
 
-电视指南,http://yp.qqqtv.top/1/api.php?id=CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97&auth=666858
-央视台球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83&auth=666858
-风云音乐,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&auth=666858
-高尔夫网球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83&auth=666858
 
-风云足球,http://168250.xyz:1111/rtp/239.5.1.119:5000
-高尔夫网球,http://168250.xyz:1111/rtp/239.5.1.120:5000
-第一剧场,http://168250.xyz:1111/rtp/239.5.1.121:5000
-怀旧剧场,http://168250.xyz:1111/rtp/239.5.1.122:5000
-风云剧场,http://168250.xyz:1111/rtp/239.5.1.123:5000
-世界地理,http://168250.xyz:1111/rtp/239.5.1.124:5000
-兵器科技,http://168250.xyz:1111/rtp/239.5.1.125:5000
-央视文化精品,http://168250.xyz:1111/rtp/239.5.1.126:5000
-女性时尚,http://168250.xyz:1111/rtp/239.5.1.127:5000
-风云音乐,http://168250.xyz:1111/rtp/239.5.1.128:5000
-电视指南,http://168250.xyz:1111/rtp/239.5.1.129:5000
-央视台球,http://168250.xyz:1111/rtp/239.5.1.130:5000
-卫生健康,http://168250.xyz:1111/rtp/239.5.1.131:5000
 
 中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://nmk.ioapk.com:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
@@ -329,18 +316,8 @@ CCTV-8K,http://yp.qqqtv.top/1/api.php?id=CCTV-8K%E8%B6%85%E9%AB%98%E6%B8%85&auth
 茶频道,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/CPDMPP360.m3u8
 茶频道,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-12.m3u8
 茶频道,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.248:1234
-茶频道,https://api.ggiptv.com/v/hunantv.php?id=578
-辽宁都市,http://api.kkhk.itv888.vip:8080/streams/bbwzex2903f/index.m3u8
-辽宁影视,http://api.kkhk.itv888.vip:8080/streams/3fvxgczq21/index.m3u8
-辽宁体育休闲,http://api.kkhk.itv888.vip:8080/streams/5dffq30kvi/index.m3u8
-辽宁生活,http://api.kkhk.itv888.vip:8080/streams/91qfmt3x9h/index.m3u8
-辽宁北方,http://api.kkhk.itv888.vip:8080/streams/o5fw1q81ye/index.m3u8
-辽宁移动电视,http://api.kkhk.itv888.vip:8080/streams/lqc8uv7w4e/index.m3u8
-大连新闻综合,http://api.kkhk.itv888.vip:8080/streams/ak8eoyyti2k/index.m3u8
-大连生活,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E8%BF%9E%E7%94%9F%E6%B4%BB&auth=666858
-大连文体,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E8%BF%9E%E6%96%87%E4%BD%93&auth=666858
-金普新闻综合,http://yp.qqqtv.top/1/api.php?id=%E9%87%91%E6%99%AE%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
-金普生活服务,http://yp.qqqtv.top/1/api.php?id=%E9%87%91%E6%99%AE%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1&auth=666858
+
+
 
 辽宁卫视,http://lihetl.com:9527/rtp/232.0.0.16:8528
 辽宁都市,http://lihetl.com:9527/rtp/232.0.0.88:8890
